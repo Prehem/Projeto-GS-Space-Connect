@@ -1,0 +1,8 @@
+# Como subir no GitHub
+
+git init
+git add .
+git commit -m "Projeto GS Space Connect"
+git branch -M main
+git remote add origin SEU_LINK_GITHUB
+git push -u origin main
